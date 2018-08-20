@@ -4,10 +4,11 @@ Implementing Design Patterns in Javascript. Using ideas from the book "Mastering
 
 # Patterns Summarie
 - [Creational]
-    - [Abstract Factory] :white_check_mark:
-    - [Builder] :white_check_mark:
-    - [Factory Method] :white_check_mark:
-    - [Singleton] :white_check_mark:
+    - [Abstract Factory] :heavy_check_mark:
+    - [Builder] :heavy_check_mark:
+    - [Factory Method] :heavy_check_mark:
+    - [Singleton] :heavy_check_mark:
+    - [Prototype] :heavy_check_mark:
 - [Structural]
     - [Adapter]
     - [Bridge]
