@@ -3,13 +3,13 @@
 Implementing Design Patterns in Javascript. Using ideas from the book "Mastering JavaScript Design Patterns-Packt Publishing" (2016) by Simon Timms.
 
 #  :book: Patterns Summarie
-- :construction_worker: Creational
+- :tractor: Creational
     - Abstract Factory :heavy_check_mark:
     - Builder :heavy_check_mark:
     - Factory Method :heavy_check_mark:
     - Singleton :heavy_check_mark:
     - Prototype :heavy_check_mark:
-- Structural
+- :construction_worker: Structural
     - Adapter
     - Bridge
     - Composite
@@ -17,7 +17,7 @@ Implementing Design Patterns in Javascript. Using ideas from the book "Mastering
     - Facade
     - Flyweight
     - Proxy
-- Behavorial
+- :slot_machine: Behavorial
     - Chain of Responsability
     - Iterator
     - Mediator
