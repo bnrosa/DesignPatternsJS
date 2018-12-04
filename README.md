@@ -3,7 +3,7 @@
 Implementing Design Patterns in Javascript. Using ideas from the book "Mastering JavaScript Design Patterns-Packt Publishing" (2016) by Simon Timms.
 
 #  :book: Patterns Summarie
-- :tractor: Creational
+- :seedling: Creational
     - Abstract Factory :heavy_check_mark:
     - Builder :heavy_check_mark:
     - Factory Method :heavy_check_mark:
